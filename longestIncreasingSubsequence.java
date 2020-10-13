@@ -1,4 +1,4 @@
-public class lis {
+public class longestIncrasingSubsequence {
     static int LIS(int arr[],int n){
         
         return 0;
